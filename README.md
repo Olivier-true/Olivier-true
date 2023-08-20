@@ -11,10 +11,10 @@
 
 ## À propos de moi
 
-- 👨‍🎓 Je suis un lycéen français, passionné de programmation et de cybersécurité.
-- ⏳ Programme depuis un peu plus de 2 ans.
-- 👨‍💻 J’ai commencé par le Python puis le C#️.
-- 🔐 J’apprécie travailler des notions telles que la cryptographie avec les algorithmes AES et RSA et le réseau avec les protocoles TCP et HTTP-S principalement.
+- 👨‍🎓  Je suis un lycéen français, passionné de programmation et de cybersécurité.
+- ⏳  Je Programme depuis la classe de 3ème.
+- 👨‍💻 J’ai commencé par le Python puis le C#.
+- 🔐 J’apprécie de travailler des notions telles que la cryptographie avec les algorithmes AES et RSA et le réseau avec les protocoles TCP et HTTP-S principalement.
 ---
 
 ### 🛠  Langages et outils utilisés:
