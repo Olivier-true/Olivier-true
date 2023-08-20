@@ -17,7 +17,7 @@
 - 🔐 J’apprécie travailler des notions telles que la cryptographie avec les algorithmes AES et RSA et le réseau avec les protocoles TCP et HTTP-S principalement.
 ---
 
-### 🛠  Langages et outils utilisé:
+### 🛠  Langages et outils utilisés:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="70" height="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/>&nbsp;
 <img src="powershell.svg" width="70" height="70"/>&nbsp;
