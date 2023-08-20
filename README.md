@@ -1,17 +1,30 @@
-### Hi there 👋
-
-<!--
-**Olivier-true/Olivier-true** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://komarev.com/ghpvc/?username=Olivier-true&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
+#
+<img src="hw.gif" alt="hello, world hacking gif">
+
+
+<!--img src="https://komarev.com/ghpvc/?username=Olivier-true&label=Followers&color=008042&style=flat&label=Followers" alt="Followers"></a>
+<img src="https://komarev.com/ghpvc/?username=Olivier-true&label=Stars&color=008042&style=flat&label=Stars" alt="Stars"></a>
+<img src="https://komarev.com/ghpvc/?username=Olivier-true&label=Forks&color=008042&style=flat&label=Forks" alt="Forks"></a-->
+
+## À propos de moi
+
+- 👨‍🎓 Je suis un lycéen français, passionné de programmation et de cybersécurité.
+- ⏳ Programme depuis un peu plus de 2 ans.
+- 👨‍💻 J’ai commencé par le Python puis le C#️.
+- 🔐 J’apprécie travailler des notions telles que la cryptographie avec les algorithmes AES et RSA et le réseau avec les protocoles TCP et HTTP-S principalement.
+---
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="70" height="70"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/>&nbsp;
+<img src="powershell.svg" width="70" height="70"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="70" height="70"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="70" height="70"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70" height="70"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" height="70"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" height="70"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="70" height="70"/>&nbsp;
+
+---
+## Expérience en entrprise
+J'ai été amené à faire un stage l'année dernière chez Capsoft durant 3 semaines durant lequel j'ai pu développer des projets simples tel qu'un logiciel fenêtré en C# gérant des raccourcis de répertoires de l'explorer windows, un programme de journalisation du temps d'activité des machines sur un réseau VPN dans l'entreprise ainsi qu'un programme d'archivage des répertoires de sauvegarde automatique (grâce à 7z.exe) dont les flux de sortie de console étaient redirigés vers des logs pour détecter les fichiers ouverts et donc les erreurs potentielles.
