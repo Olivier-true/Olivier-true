@@ -42,6 +42,6 @@ J'ai été amené à faire un stage l'année dernière chez Capsoft durant 3 sem
 
 ## 📦 My Last Repositry
 
-- <a href="https://github.com/Olivier-true/MicroPython-Memory-Friendly-HTTP-Requests">MicroPython-Memory-Friendly-HTTP-Requests</a>
+- <a href="https://github.com/Olivier-true/Flask-SocketIO-Messaging-Application">Flask-SocketIO-Messaging-Application</a>
 
 ---
