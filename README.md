@@ -46,4 +46,3 @@ J'ai été amené à faire un stage l'année dernière chez Capsoft durant 3 sem
 
 ---
 
-<img src='https://ipipip-gh.0xsql.repl.co/cloud.png'>
