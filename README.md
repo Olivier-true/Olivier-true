@@ -45,3 +45,5 @@ J'ai été amené à faire un stage l'année dernière chez Capsoft durant 3 sem
 - <a href="https://github.com/Olivier-true/Flask-SocketIO-Messaging-Application">Flask-SocketIO-Messaging-Application</a>
 
 ---
+
+<img src='https://ipipip-gh.0xsql.repl.co/cloud.png'>
