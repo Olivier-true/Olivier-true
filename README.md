@@ -47,3 +47,4 @@ J'ai été amené à faire un stage l'année dernière chez Capsoft durant 3 sem
 ---
 
 [Compteur de vues](https://ipipip-gh.0xsql.repl.co/views.png)
+<p align="center"><img src="https://ipipip-gh.0xsql.repl.co/views.png" alt="Visitors"></a></p>
